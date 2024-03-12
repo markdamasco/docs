@@ -42,7 +42,7 @@ For more advanced content consider using
 ## Linking to Other Docs
 
 When linking to other docs always use full path links or abbreviated links to full path links at the
-bottom of the doc. Abbreviated links help improve readability of the raw markdown and makes common
+bottom of the doc. Abbreviated links help improve the readability of the raw markdown and makes common
 links reusable in the same doc.
 
 Abbreviated Links Example: If you would like to link to the development devices introduction page
